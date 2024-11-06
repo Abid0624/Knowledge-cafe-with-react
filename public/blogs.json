@@ -1,7 +1,7 @@
 [
   {
     "id": 101,
-    "cover": "https://i.ibb.co.com/8jbXFYn/upset-gloomy-uneasy-cute-pouting-redhead-girl-frowning-dont-want-speak-you-hiding-face.jpg",
+    "cover": "https://i.ibb.co.com/yWpPdLC/glasses-lie-laptop-reflecting-light-from-screen-dark.jpg",
     "title": "The Mystery of the Lost Artifact",
     "author": "Sarah Johnson",
     "author_img": "https://randomuser.me/api/portraits/women/45.jpg",
@@ -38,15 +38,5 @@
     "posted_date": "2024-09-30",
     "reading_time": 6,
     "hashtags": ["#Food", "#Travel", "#Italy"]
-  },
-  {
-    "id": 105,
-    "cover": "https://i.ibb.co.com/yWpPdLC/glasses-lie-laptop-reflecting-light-from-screen-dark.jpg",
-    "title": "Mastering the Art of Photography",
-    "author": "Olivia Green",
-    "author_img": "https://randomuser.me/api/portraits/women/25.jpg",
-    "posted_date": "2024-10-20",
-    "reading_time": 10,
-    "hashtags": ["#Photography", "#Art", "#Creativity"]
   }
 ]
